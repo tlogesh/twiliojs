@@ -1,0 +1,20 @@
+{
+  "name": "twiliojs",
+  "homepage": "https://github.com/tlogesh/twiliojs",
+  "authors": [
+    "Logesh Thulasiraman <logesht@zoho.com>"
+  ],
+  "description": "twilio client sdk",
+  "main": "twilio.min.js",
+  "keywords": [
+    "twilio"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
